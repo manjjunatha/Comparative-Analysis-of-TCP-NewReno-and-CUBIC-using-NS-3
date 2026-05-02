@@ -1,2 +1,2 @@
 # Comparative-Analysis-of-TCP-NewReno-and-CUBIC-using-NS-3
-This project implements and analyzes TCP congestion control algorithms using ns-3. It compares TCP NewReno and TCP CUBIC based on congestion window evolution, throughput, RTT, and packet loss. The results highlight behavioral differences in how each algorithm responds to network congestion.
+This project presents a simulation-based analysis of TCP congestion control algorithms using ns-3. TCP NewReno and TCP CUBIC are compared under identical network conditions using metrics such as congestion window dynamics, throughput, RTT, and packet loss. The study demonstrates differences in recovery behavior and bandwidth utilization between the two algorithms.
