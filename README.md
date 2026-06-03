@@ -101,6 +101,20 @@ Example:
    - TCP NewReno
    - TCP CUBIC
 
+
+## Results
+
+### Throughput Comparison
+![Throughput](images/throughput_comparison.png)
+
+### RTT Comparison
+![RTT](images/rtt_comparison.png)
+
+### CWND Comparison
+![CWND](images/cwnd_comparison.png)
+
+### Packet Loss Comparison
+![Packet Loss](images/packet_loss_comparison.png)
 ## Author
 
 Manjunath P
