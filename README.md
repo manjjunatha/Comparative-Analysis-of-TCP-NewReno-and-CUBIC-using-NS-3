@@ -66,6 +66,41 @@ Example:
 
 4. Execute the Python scripts to generate performance graphs.
 
+5. Parameters Analyzed
+   1. Congestion Window (CWND)
+   - cwnd_reno.dat
+   - cwnd_cubic.dat
+   - cwnd_node0_tcp.dat
+
+2. Throughput
+   - flow_metrics_per_sec.dat
+   - flow_metrics_per_sec_reno.dat
+   - flow_metrics_per_sec_cubic.dat
+
+3. Round Trip Time (RTT)
+   - tcp_rtt.dat
+   - tcp_reno_rtt.dat
+   - rtt_cubic.dat
+
+4. Packet Delivery Performance
+   - Flow Monitor statistics
+   - Received packets
+   - Lost packets
+
+5. Congestion Recovery Behavior
+   - Slow Start
+   - Congestion Avoidance
+   - Fast Retransmit
+   - Fast Recovery
+
+6. Bandwidth Utilization
+   - Link efficiency comparison
+   - Resource utilization analysis
+
+7. TCP Algorithm Comparison
+   - TCP NewReno
+   - TCP CUBIC
+
 ## Author
 
 Manjunath P
